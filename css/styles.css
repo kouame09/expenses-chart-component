@@ -34,6 +34,8 @@ body{
 
 .container-header-small-title{
     padding-bottom: 8px;
+    opacity: 0.8;
+
 }
 
 .container-body{
@@ -113,6 +115,7 @@ body{
 .container-top-chart-element-subtitle{
     text-align: center;
     color: #6b6b6b;
+    opacity: 0.5;
 }
 
 .bar{
@@ -161,4 +164,6 @@ body{
 
 .small-title-color{
     color: #6b6b6b;
+    opacity: 0.8;
+
 }
